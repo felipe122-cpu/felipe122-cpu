@@ -1,6 +1,8 @@
-# 🟢 FELIPE HERNÁNDEZ // BACKEND DEVELOPER
+# 🟢 FELIPE HERNANDEZ // BACKEND DEVELOPER
 
-```text
+<div align="center">
+
+<pre>
 ███████╗███████╗██╗     ██╗██████╗ ███████╗
 ██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
 █████╗  █████╗  ██║     ██║██████╔╝█████╗
@@ -8,13 +10,14 @@
 ██║     ██║     ███████╗██║██║     ███████╗
 ╚═╝     ╚═╝     ╚══════╝╚═╝╚═╝     ╚══════╝
 
-> SYSTEM STATUS: ONLINE
-> USER: Felipe Hernández
-> ROLE: Backend Developer in progress
-> LOCATION: Bogotá, Colombia 🇨🇴
-> CURRENT MISSION: Keep learning and building.
-```
+&gt; SYSTEM STATUS: ONLINE
+&gt; USER: Felipe Hernandez
+&gt; ROLE: Backend Developer in progress
+&gt; LOCATION: Bogotá, Colombia 🇨🇴
+&gt; CURRENT MISSION: Keep learning and building.
+</pre>
 
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff66?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND-00ff66?style=for-the-badge&logo=serverfault&logoColor=black" />
