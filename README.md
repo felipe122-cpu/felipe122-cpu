@@ -111,17 +111,6 @@ Plataforma web enfocada en facilitar la compra y venta de productos usados dentr
 - Modelado de usuarios, productos y pedidos.
 - Planeación de arquitectura y funcionalidades.
 
-**[03] VIEJA GUARDIA — E-commerce vintage**
-
-Proyecto personal enfocado en desarrollar una aplicación web para gestionar una tienda de gorras vintage.
-
-- JavaScript, Node.js y Express.
-- PostgreSQL.
-- Gestión de productos e inventario.
-- Administración de ventas presenciales y en línea.
-
----
-
 ### `04. /learning`
 
 ```bash
