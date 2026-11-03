@@ -2,21 +2,18 @@
 
 <div align="center">
 
-<pre>
-███████╗███████╗██╗     ██╗██████╗ ███████╗
-██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
-█████╗  █████╗  ██║     ██║██████╔╝█████╗
-██╔══╝  ██╔══╝  ██║     ██║██╔═══╝ ██╔══╝
-██║     ██║     ███████╗██║██║     ███████╗
-╚═╝     ╚═╝     ╚══════╝╚═╝╚═╝     ╚══════╝
-
+<pre align="center">
+█████ █████ █     █████ █████ █████
+█     █     █     █     █   █ █
+████  ████  █     ████  █████ ████
+█     █     █     █     █     █
+█     █████ █████ █     █     █████
+</pre>
 &gt; SYSTEM STATUS: ONLINE
 &gt; USER: Felipe Hernandez
 &gt; ROLE: Backend Developer in progress
 &gt; LOCATION: Bogotá, Colombia 🇨🇴
 &gt; CURRENT MISSION: Keep learning and building.
-</pre>
-
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff66?style=for-the-badge&logo=linux&logoColor=black" />
